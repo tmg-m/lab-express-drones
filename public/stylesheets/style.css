@@ -6,3 +6,8 @@ body {
 a {
   color: #00b7ff;
 }
+
+.each-drone {
+  border: 2px solid green;
+  margin: 10px auto;
+}
